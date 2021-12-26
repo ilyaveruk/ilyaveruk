@@ -11,7 +11,7 @@
 
 <!-- Actual text -->
 
-You can find me  on [![LinkedIn][2.2]][2].
+<!--You can find me  on [![LinkedIn][2.2]][2]. need to uncomment this, to make linkedin profile to accure!!! 
 
 <!-- Icons -->
 
