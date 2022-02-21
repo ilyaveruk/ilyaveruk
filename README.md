@@ -23,4 +23,4 @@
 
 [2]: https://www.linkedin.com/in/ilya-averuk-4944951b8/
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyaveruk&langs_count=5&theme=react)]()
+
