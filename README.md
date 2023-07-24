@@ -1,6 +1,6 @@
 # Ilya Averuk
 
-![Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Felements.envato.com%2Fmodern-3d-illustration-of-programming-QRYNF4D&psig=AOvVaw2W1RKCcwCTlI3o_Ep2sFAC&ust=1690302506702000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCIjpytPhp4ADFQAAAAAdAAAAABAE)
+![Banner]("demo")
 
 ## Hello, world! 👋
 
