@@ -38,7 +38,10 @@ Feel free to ask me about Java, C, C++, JavaScript or Git. I'm eager to share my
 
 ### 🚀 My Top Programming Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&hide_title=true&hide_border=true&bg_color=00000000)
+- Java
+- C/C++ 
+- JavaScript
+- Python
 
 ### 🌐 Connect with Me
 
