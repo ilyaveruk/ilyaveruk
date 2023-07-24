@@ -1,77 +1,63 @@
- # Hello Friends!
-# <Your Name>
+# Ilya Averuk
 
-<!-- Add a banner or GIF to make your profile README attractive -->
-<!-- Example: ![Banner](https://your-image-url.com) -->
+![Banner](https://your-image-url.com)
 
 ## Hello, world! 👋
 
-<!-- Add a brief introduction about yourself -->
-<!-- Example: Software Engineer | Open Source Enthusiast | Coffee Lover -->
+I'm Ilya Averuk, a passionate junior software engineer with a love for all things code.
 
 ### 🔭 What I'm Working On
 
-<!-- Mention the projects you are currently working on -->
-<!-- Example: - Creating a web application using React.js and Node.js -->
+- Creating a web application using React.js and FastAPI.
+- Love programming in C/C++.
 
 ### 🌱 What I'm Learning
 
-<!-- Mention the technologies or topics you are currently learning -->
-<!-- Example: - Exploring Machine Learning with Python and TensorFlow -->
+- Exploring Machine Learning with Python and TensorFlow.
+- Learning computer embedded programming.
 
 ### 👯 Looking to Collaborate
 
-<!-- Mention if you are open to collaborating on projects and what kind of projects -->
-<!-- Example: - I'm open to collaborating on web development projects -->
+I'm open to collaborating on web development projects and contributing to exciting open-source endeavors.
 
 ### 🤔 Need Help With
 
-<!-- Mention the areas where you need help or seek guidance -->
-<!-- Example: - Looking for advice on optimizing performance in React applications -->
+- I'm currently seeking guidance on optimizing performance in React applications.
+- Searching teammates for interesting embedded project. 
+  
 
 ### 💬 Ask Me About
 
-<!-- Mention the topics you are knowledgeable about and can help others with -->
-<!-- Example: - Feel free to ask me about JavaScript, CSS, or Git -->
+Feel free to ask me about Java, C, C++, JavaScript or Git. I'm eager to share my knowledge and learn from others.
 
 ### 📫 How to Reach Me
 
-<!-- Provide various ways to reach you -->
-<!-- Example: - Email: your.email@example.com -->
-<!--          - LinkedIn: linkedin.com/in/yourprofile -->
-
-### 😄 Pronouns
-
-<!-- Mention your preferred pronouns -->
-<!-- Example: - She/Her -->
-
-### ⚡ Fun Fact
-
-<!-- Share a fun or interesting fact about yourself -->
-<!-- Example: - I can solve a Rubik's cube in under a minute! -->
-
-<!-- Add your GitHub stats, top languages, and other fancy badges -->
-<!-- You can use GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats -->
-
-<!-- Add links to your social media profiles and personal website/portfolio -->
-
-<!-- Add a list of your open source contributions -->
-
-<!-- Add a list of your blog posts, tutorials, or articles if you have any -->
-
-<!-- Add a list of your favorite programming tools, libraries, or resources -->
-
-<!-- Add a quote that inspires you or represents your philosophy -->
-
-<!-- Add any other sections you'd like to include -->
-
-<!-- Don't forget to update the information above with your own details! -->
+- Email: ilyaveruk@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ilya-averuk-4944951b8/
 
 
+### 🚀 My Top Programming Languages
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&hide_title=true&hide_border=true&bg_color=00000000)
 
+### 🌐 Connect with Me
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-averuk-4944951b8/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-E34F26?style=flat-square&logo=firefox&logoColor=white)](https://ai-portfolio-ilyaveruk.vercel.app/)
 
+### 🌟 Open Source Contributions
 
+-Soon to come..!
 
+### 🛠️ Favorite Programming Tools
+
+- VS Code
+- WebStorm 
+- Git
+- Postman
+- Intellij
+
+### 🌈 Quote
+
+> "The only way to do great work is to love what you do." - Steve Jobs
 
