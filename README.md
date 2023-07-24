@@ -1,6 +1,6 @@
 # Ilya Averuk
 
-![Banner]("demo")
+![Banner](readme.png)
 
 ## Hello, world! 👋
 
