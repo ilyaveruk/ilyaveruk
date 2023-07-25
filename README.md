@@ -23,7 +23,7 @@ I'm open to collaborating on web development projects and contributing to exciti
 ### 🤔 Need Help With
 
 - I'm currently seeking guidance on optimizing performance in React applications.
-- Searching teammates for interesting embedded project. 
+- Searching teammates for interesting embedded projects. 
   
 
 ### 💬 Ask Me About
