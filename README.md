@@ -1,8 +1,5 @@
-# Ilya Averuk
 
-
-
-## Hello, world! 👋
+# Hello, world! 👋
 
 I'm Ilya Averuk, a passionate junior software engineer with a love for all things code.
 
