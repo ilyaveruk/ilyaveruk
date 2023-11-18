@@ -8,7 +8,7 @@ I'm Ilya Averuk, a passionate junior software engineer with a love for all thing
 
 ### 🔭 What I'm Working On
 
-- Creating a web application using React.js and FastAPI.
+- Creating a web application using React.js and NodeJS.
 - Love programming in C/C++.
 
 ### 🌱 What I'm Learning
@@ -19,12 +19,6 @@ I'm Ilya Averuk, a passionate junior software engineer with a love for all thing
 ### 👯 Looking to Collaborate
 
 I'm open to collaborating on web development projects and contributing to exciting open-source endeavors.
-
-### 🤔 Need Help With
-
-- I'm currently seeking guidance on optimizing performance in React applications.
-- Searching teammates for interesting embedded projects. 
-  
 
 ### 💬 Ask Me About
 
@@ -48,19 +42,7 @@ Feel free to ask me about Java, C, C++, JavaScript or Git. I'm eager to share my
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-averuk-4944951b8/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-E34F26?style=flat-square&logo=firefox&logoColor=white)](https://ai-portfolio-ilyaveruk.vercel.app/)
 
-### 🌟 Open Source Contributions
 
--Soon to come..!
-
-### 🛠️ Favorite Programming Tools
-
-- VS Code
-- WebStorm 
-- Git
-- Postman
-- Intellij
-
-### 🌈 Quote
 
 > "The only way to do great work is to love what you do." - Steve Jobs
 
