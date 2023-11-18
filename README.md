@@ -40,7 +40,7 @@ Feel free to ask me about Java, C, C++, JavaScript or Git. I'm eager to share my
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-averuk-4944951b8/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-E34F26?style=flat-square&logo=firefox&logoColor=white)](https://ai-portfolio-ilyaveruk.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-E34F26?style=flat-square&logo=firefox&logoColor=white)](https://ilyaveruk.com/)
 
 
 
