@@ -1,7 +1,7 @@
 
 # Hello, world! 
 
-I'm Ilya Averuk, a passionate junior software engineer with a love for all things code.
+I'm Ilya Averuk, a passionate software engineer with a love for all things code.
 
 ###  What I'm Working On
 
