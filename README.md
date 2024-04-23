@@ -1,16 +1,15 @@
 
-# Hello, world! 
+# Hello World! 
 
 I'm Ilya Averuk, a passionate software engineer with a love for all things code.
 
 ###  What I'm Working On
 
-- Creating a web application using React.js and NodeJS.
+- Creating a web application using React.js, Angular ,NodeJS and Spring Boot.
 - Love programming in C/C++.
 
 ###  What I'm Learning
 
-- Exploring Machine Learning with Python and TensorFlow.
 - Learning computer embedded programming.
 
 ###  Looking to Collaborate
