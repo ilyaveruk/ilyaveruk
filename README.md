@@ -7,10 +7,12 @@ I'm Ilya Averuk, a passionate software engineer with a love for all things code.
 
 - Creating a web application using React.js, Angular ,NodeJS and Spring Boot.
 - Love programming in C/C++.
+- Creating smart contract on etherium blockchain using Solidity.
 
 ###  What I'm Learning
 
 - Learning computer embedded programming.
+- Cryptocurrency and blockchain deeper development.
 
 ###  Looking to Collaborate
 
@@ -18,7 +20,7 @@ I'm open to collaborating on web development projects and contributing to exciti
 
 ###  Ask Me About
 
-Feel free to ask me about Java, C, C++, JavaScript or Git. I'm eager to share my knowledge and learn from others.
+Feel free to ask me about Java, C, C++, JavaScript, Python or Git. I'm eager to share my knowledge and learn from others.
 
 ###  How to Reach Me
 
@@ -32,6 +34,7 @@ Feel free to ask me about Java, C, C++, JavaScript or Git. I'm eager to share my
 - C/C++ 
 - JavaScript
 - Python
+- Solidity
 
 ###  Connect with Me
 
