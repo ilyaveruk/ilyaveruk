@@ -20,7 +20,7 @@ I'm open to collaborating on web development projects and contributing to exciti
 
 ###  Ask Me About
 
-Feel free to ask me about Java, C, C++, JavaScript, Python or Git. I'm eager to share my knowledge and learn from others.
+Feel free to ask me about Java, C, C++, JavaScript or Git. I'm eager to share my knowledge and learn from others.
 
 ###  How to Reach Me
 
@@ -33,7 +33,6 @@ Feel free to ask me about Java, C, C++, JavaScript, Python or Git. I'm eager to 
 - Java
 - C/C++ 
 - JavaScript
-- Python
 - Solidity
 
 ###  Connect with Me
