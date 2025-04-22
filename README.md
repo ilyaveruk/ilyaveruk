@@ -5,7 +5,7 @@ I'm Ilya Averuk, a passionate software engineer with a love for all things code.
 
 ###  What I'm Working On
 
-- Creating a web application using React.js, Angular ,NodeJS and Spring Boot.
+- Creating a web application using React.js, NextJS ,NodeJS and Spring Boot.
 - Love programming in C/C++.
 - Creating smart contract on etherium blockchain using Solidity.
 
